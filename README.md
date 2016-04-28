@@ -1,5 +1,11 @@
 # MEAN-SEAN-skeleton-generator
 
+To install:
+`npm install -g lambda-mean-generator`
+
+and run it in your root project folder at:
+`npm lambda-skeleton`
+
 Will generate a MEAN stack skeleton with files and dependancies. Designed to be lightweight, and a good jumping off point to working with some of Node's file system server functionality.
 
 The program will generate a skeleton for a Mean stack app with a configured package.json. It will include by default Angular, Postgresql, Express, Bootstrap, Passport, and several utility packages as well as a configured gruntfile to bring these into the file structure.
