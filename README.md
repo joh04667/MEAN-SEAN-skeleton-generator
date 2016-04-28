@@ -4,7 +4,7 @@ To install:
 `npm install -g lambda-mean-generator`
 
 and run it in your root project folder at:
-`npm lambda-skeleton`
+`lambda-skeleton`
 
 Will generate a MEAN stack skeleton with files and dependancies. Designed to be lightweight, and a good jumping off point to working with some of Node's file system server functionality.
 
