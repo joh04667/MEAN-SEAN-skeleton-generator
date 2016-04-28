@@ -1,0 +1,19 @@
+{
+  "name": "lambda-mean-generator",
+  "version": "0.0.2",
+  "description": "A SEAN-stack generator for building new projects quickly.",
+  "main": "lib/index.js",
+  "bin": {
+    "lambda-skeleton": "lib/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "lib"
+  ],
+  "author": "Kyle Johnson",
+  "license": "ISC",
+  "repository": "gruntjs/grunt-cli",
+
+}
