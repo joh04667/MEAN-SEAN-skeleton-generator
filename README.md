@@ -1,11 +1,13 @@
 # MEAN-SEAN-skeleton-generator
+https://www.npmjs.com/package/lambda-mean-generator
 
 ###To install:
 `npm install -g lambda-mean-generator`
 
-and run it in any new root project folder with:
+#####and run it in any new root project folder with:
+
 `lambda-skeleton`
-###or:
+####or:
 `banana-sandwich`
 
 Will generate a SEAN stack skeleton with files and dependancies. Designed to be lightweight, and a personal good jumping off point to exploring some of Node's file system server functionality.
