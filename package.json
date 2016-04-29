@@ -1,12 +1,12 @@
 {
   "name": "lambda-mean-generator",
-  "version": "0.0.6",
+  "version": "0.0.61",
   "description": "A lightweight package designed to quickly scaffold a SEAN or MEAN-stack application. ",
   "main": "lib/index.js",
   "bin": {
     "lambda-generate": "lib/index.js",
-    "banana-sandwich": "lib/index.js",
-    "bananna-sandwich": "lib/index.js"
+    "bananna-sandwich": "lib/modules/spell.js",
+    "banana-sandwich": "lib/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
