@@ -1,6 +1,6 @@
 {
   "name": "lambda-mean-generator",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A lightweight package designed to quickly scaffold a SEAN or MEAN-stack application. ",
   "main": "lib/index.js",
   "bin": {
