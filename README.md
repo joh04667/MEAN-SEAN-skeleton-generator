@@ -8,7 +8,8 @@ https://www.npmjs.com/package/lambda-mean-generator
 
 `lambda-skeleton`
 ####or:
-`banana-sandwich`
+`banana-sandwich` 
+(bananna-sandwich will also work for those of use with spelling issues)
 
 Will generate a SEAN stack skeleton with files and dependancies. Designed to be lightweight and fast.
 
