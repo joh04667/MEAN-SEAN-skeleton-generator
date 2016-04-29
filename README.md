@@ -6,7 +6,7 @@ https://www.npmjs.com/package/lambda-mean-generator
 
 #####and run it in any new root project folder with:
 
-`lambda-skeleton`
+`lambda-generate`
 ####or:
 `banana-sandwich`
 
