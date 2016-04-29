@@ -1,4 +1,7 @@
 {
+  "name": "",
+  "version": "1.0.0",
+  "main": "index.js",
   "dependencies": {
     "angular": "^1.5.5",
     "angular-route": "^1.5.5",
@@ -14,5 +17,12 @@
   },
   "devDependencies": {
     "grunt-contrib-watch": "^1.0.0"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
