@@ -1,6 +1,6 @@
 {
   "name": "lambda-mean-generator",
-  "version": "0.0.63",
+  "version": "0.3.1",
   "description": "A lightweight package designed to quickly scaffold a SEAN or MEAN-stack application. ",
   "main": "lib/index.js",
   "bin": {
@@ -30,5 +30,9 @@
   "bugs": {
     "url": "https://github.com/joh04667/MEAN-SEAN-skeleton-generator/issues"
   },
-  "homepage": "https://github.com/joh04667/MEAN-SEAN-skeleton-generator#readme"
+  "homepage": "https://github.com/joh04667/MEAN-SEAN-skeleton-generator#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "prompt": "^1.0.0"
+  }
 }

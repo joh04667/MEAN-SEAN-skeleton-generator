@@ -22,3 +22,6 @@ Eventually this will be a more modular application, allowing users to configure 
 Please feel free to contribute to this project! I made this as a learning opportunity and would love to start learning how to collaborate with people.
 
 Here's to never making an entire folder tree again!
+
+####New in 0.3.1:
+Added a prompt so the user can confirm their directory to avoid accidentally installing a bunch of stuff in the wrong place (like your work folder).
